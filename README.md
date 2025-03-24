@@ -34,7 +34,7 @@ Make sure you have the following installed:
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/simple-journey-vue.git
+   git clone https://github.com/setografi/vue-simple-journey.git
    cd simple-journey-vue
    ```
 
